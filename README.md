@@ -40,9 +40,9 @@
 для атрибутов указать, явл. ли он первичным или внешним ключом 
 
 ### 🦕 ER-модель
-![ER model]()
+![ER model](https://github.com/mopedist/SQL/blob/master/lab1/ER_model.png)
 
 ### 🦕 Реляционная модель
-![Relational model]()
+![Relational model](https://github.com/mopedist/SQL/blob/master/lab1/Relation_model.png)
 
 <br>
