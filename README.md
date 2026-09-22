@@ -43,6 +43,6 @@
 ![ER model](https://github.com/mopedist/SQL/blob/master/lab1/ER_model.png)
 
 ### 🦕 Реляционная модель
-![Relational model](https://github.com/mopedist/SQL/blob/master/lab1/Relation_model.png)
+![Relational model](https://github.com/mopedist/SQL/blob/master/lab1/Relational_model.png)
 
 <br>
